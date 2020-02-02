@@ -1,5 +1,7 @@
 pipeline {
-  agent {mineslave}
+  agent {
+    lable "mineslave"
+  }
     stages {
       stage {
         steps {
