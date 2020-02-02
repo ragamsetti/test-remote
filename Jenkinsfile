@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    lable "mineslave"
+    label "mineslave"
   }
     stages {
       stage('muni') {
