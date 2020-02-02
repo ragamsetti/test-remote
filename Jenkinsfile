@@ -3,12 +3,12 @@ pipeline {
     lable "mineslave"
   }
     stages {
-      stage {
+      stage('muni') {
         steps {
           sh "echo muni"
         }
       }
-      stage {
+      stage('hema') {
         steps {
           sh "echo hema"
         }
