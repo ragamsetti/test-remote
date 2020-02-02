@@ -1,13 +1,13 @@
-pipeline{
+pipeline {
   agent {mineslave}
-    stages{
-      stage{
-        steps{
+    stages {
+      stage {
+        steps {
           sh "echo muni"
         }
       }
-      stage{
-        steps{
+      stage {
+        steps {
           sh "echo hema"
         }
       } 
