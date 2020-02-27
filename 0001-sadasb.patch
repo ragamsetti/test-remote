@@ -1,0 +1,19 @@
+From db3b42f898a4bc566c956a7b41f38559785daa82 Mon Sep 17 00:00:00 2001
+From: muniknsdknasdfsa <chittichitti22@yahoo.com>
+Date: Thu, 27 Feb 2020 13:07:31 +0530
+Subject: [PATCH] sadasb
+
+---
+ del.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/del.txt b/del.txt
+index bf848a7..7fa96e2 100644
+--- a/del.txt
++++ b/del.txt
+@@ -1 +1,2 @@
+ hai hema you nac.
++i got qulcom
+-- 
+2.19.1
+
